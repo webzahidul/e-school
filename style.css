@@ -32,6 +32,9 @@ h1{
     padding-bottom: 10px;
     
 }
+h5{
+    margin: 0px;
+}
 .schedule-color{
     color: #21b573;
 }
@@ -52,3 +55,9 @@ p{
 .top-img{
     max-width: 100%;
 }
+.card{
+padding: 80px;
+border: white;
+}
+
+  
