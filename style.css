@@ -1,3 +1,13 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.container-fluid{
+    background-color: #f0fff0;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+.container-fluid img.logo{
+    max-width: 20%;
+    
+}
