@@ -77,15 +77,17 @@ p{
     border: none;
 }
 .container-learn{
-    height: 500px;
+    height: 350px;
     padding-top: 40px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 .container-fluid a:hover{
 background-color: white;
 }
 .container-online-courses{
     height: 700px;
-    padding: 100px;
+    padding: 40px;
 }
 .container-online-courses h1{
    padding-bottom: 60px;
@@ -102,14 +104,52 @@ h5{
     padding-bottom: 1px;
 }
 .buy-course-button{
+    text-align: justify;
         color:white;
         background-color: #21b573;
         border-radius: 20px;
-        padding: 9px 25px;
+        padding: 10px 25px;    
         width: 150px;
+        height: 40px;
         cursor: pointer;
         border-color: lightgray;  
 }
 .buy-course-button:hover{
     color: thistle; 
+}
+.container-online-courses .card-footer-img{
+    max-width: 12%;
+    padding-left: 2px;  
+   
+}
+.container-online-courses .card p{
+   padding-right: 2px;
+}
+.container-testimonial{
+    height: 600px;
+    padding: 150px 40px;
+    
+}
+.container-testimonial p{
+    text-align: left;
+}
+.man-img{
+    max-width: 40%;
+}
+.container-testimonial p{
+    padding-top: 60px;
+}
+.container-footer{
+    width: 100%;
+    height: 350px;
+    color: white;
+    background-color: #282531;
+    padding: 50px;
+    padding-left: 100px;
+}
+.list-unstyled{
+    padding-left: 150px;
+}
+.container-footer h6{
+    padding-left: 150px;
 }
