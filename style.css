@@ -146,10 +146,19 @@ h5{
     background-color: #282531;
     padding: 50px;
     padding-left: 100px;
+    margin: 0px;
 }
 .list-unstyled{
     padding-left: 150px;
 }
 .container-footer h6{
     padding-left: 150px;
+}
+.col-md-3{
+    padding: 10px;
+    padding-left: 2px;
+}
+.col-md-3 p{
+    min-width: 400px;
+    padding-right: 20px;
 }
