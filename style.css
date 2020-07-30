@@ -147,6 +147,11 @@ h5{
 }
 .container-footer h6{
     padding-left: 150px;
+    color: turquoise;
+}
+.container-footer h6:hover{
+    color: teal;
+    cursor: pointer;
 }
 .col-md-3{
     padding: 10px;
